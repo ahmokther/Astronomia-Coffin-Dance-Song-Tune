@@ -1,0 +1,10 @@
+component list:
+1.Arduino UNO or Nano----------1 pice
+2.buzzer-----------------------1 pice
+3.npn transistor(2n2222)-------1 pice
+4.some Jumper wire
+5.9volt battery---------------1 pice
+
+connection:
+buzzer positive side connect Arduino 5 volt pin and the negative side connect the NPN transistor(2n2222) emitter side 
+and the NPN transistor collector connects the Arduino ground pin. Arduino pin 8 connected to the transistor base pin. 
